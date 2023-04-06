@@ -32,7 +32,7 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 ## Histórico de lançamentos
 
 * 0.1
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
+    * MUDANÇA: Atualização da api e algumas ASCII para design.
 
 
 ## Meta
