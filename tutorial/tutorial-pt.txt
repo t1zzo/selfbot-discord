@@ -1,0 +1,9 @@
+Tutorial de como usar o programa
+
+1- Abre a pasta "install" e clique em python.bat caso ainda nao tiver o python instalado, depois em seguida clique em install.bat
+2- Deixa o like e se inscreva no meu canal www.youtube.com/@godscript
+3- Clique em start.bat e aproveite o codigo
+
+
+Se voce querer usar meu codigo e modificar ele por favor de os creditos!
+Caso aconteca algum erro me contate no discord ou comente no meu video : mufctizzo#6532

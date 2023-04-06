@@ -1,0 +1,9 @@
+discord.py
+colorama
+psutil==5.9.0
+pypresence==4.2.1
+rich
+discord
+requests
+fore
+fade
