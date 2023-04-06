@@ -3,7 +3,7 @@ GodScript Tool V1
 
 My program is essentially a dashboard with 4 options for Discord, namely "Spam and delete webhook", "Just spam webhook", "Spread messages in other members' private messages", and "Password generator". The first option allows users to spam and delete webhooks, which are used to send messages to Discord channels. The second option only spams the webhooks without deleting them. The third option lets users send messages to other members privately, which can be used for advertising or other purposes. Finally, the password generator is a tool for generating strong and secure passwords. Overall, your program provides a range of useful tools for Discord users.
 
-
+It has portuguese and english version in the application.
 
 
 
