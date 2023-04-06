@@ -37,7 +37,7 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 
 ## Meta
 
-Showcase – [@GodScript](www.youtube.com/watch?v=3ui_iIkxOU8) – 
+[Showcase](https://youtu.be/3ui_iIkxOU8)
 
 
 
