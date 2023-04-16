@@ -70,4 +70,8 @@ if opt== "3":
 if opt== "4":
     os.system("cls")
     os.system("python tools/password.py")
-
+else:
+ print(f"{Fore.LIGHTRED_EX}Opção inválida, tente novamente.{Style.RESET_ALL}")
+  input(f"{Fore.LIGHTYELLOW_EX}Pressione qualquer tecla para continuar...{Style.RESET_ALL}")
+  os.system("cls")
+  painel()
